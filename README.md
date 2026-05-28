@@ -64,4 +64,4 @@ I bridge the gap between operational engineering, Industry 4.0, and business int
 
 * **Location:** Ranchi, India | Open to Relocation: UAE
 * **Email:** jibiteshkumar@gmail.com
-* **LinkedIn:** [Connect with me](https://linkedin.com/)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jibitesh-kumar-jb/)
