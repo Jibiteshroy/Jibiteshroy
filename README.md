@@ -86,7 +86,7 @@ My work lives at the intersection of:
 
 <br/>
 
-[![Open to Work](https://img.shields.io/badge/🚀_Open_to-UAE_Opportunities-0A3D62?style=for-the-badge)](mailto:jibiteshkumar@gmail.com)
+[![Open to Work](https://img.shields.io/badge/🚀_Open_to-UAE/GCC/Singapore/Indonesia/USA/EU_Opportunities-0A3D62?style=for-the-badge)](mailto:jibiteshkumar@gmail.com)
 
 </td>
 </tr>
