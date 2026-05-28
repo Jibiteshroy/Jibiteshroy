@@ -258,7 +258,8 @@ API Data Integration       ████████░░░░  Intermediate
 </tr>
 </table>
 
-> 📸 *Dashboard screenshot placeholder — [Insert Power BI screenshot here]*
+> 📸 *Dashboard screenshot <img width="1917" height="1137" alt="Industrial Equipment Predictive Maintenance_Dashboard" src="https://github.com/user-attachments/assets/a00d82ae-fb51-44be-94a2-77dcc28d49b0" />
+
 
 ---
 
@@ -324,7 +325,7 @@ API Data Integration       ████████░░░░  Intermediate
 </tr>
 </table>
 
-> 📸 *Dashboard screenshot placeholder — [Insert Power BI aviation dashboard here]*
+> 📸 *Dashboard screenshot <img width="1655" height="955" alt="Airline Bi Pipeline" src="https://github.com/user-attachments/assets/4364b556-66f7-4124-a0fb-8691ac4427fc" />
 
 ---
 
@@ -381,7 +382,8 @@ API Data Integration       ████████░░░░  Intermediate
 </tr>
 </table>
 
-> 📸 *Dashboard screenshot placeholder — [Insert fleet dashboard screenshot here]*
+> 📸 *Dashboard screenshot <img width="1912" height="1135" alt="AI_Fleet_Intelligence_System_Visualization" src="https://github.com/user-attachments/assets/4aef1ff6-907c-4aa0-8fb4-c0d0e108c44e" />
+
 
 </details>
 
