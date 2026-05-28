@@ -53,15 +53,15 @@
 
 I'm a **Mechanical Engineer turned Industrial AI Specialist** with **6+ years of international operations experience** across Indonesia, India, and the broader APAC manufacturing corridor.
 
-I bridge the gap between **heavy industry operations** and **modern data intelligence** — designing systems that turn raw equipment telemetry, maintenance logs, and operational signals into high-fidelity predictive dashboards and executive-grade KPI architecture.
+I bridge the gap between **heavy industry operations** and **modern data intelligence** - designing systems that turn raw equipment telemetry, maintenance logs, and operational signals into high-fidelity predictive dashboards and executive-grade KPI architecture.
 
 My work lives at the intersection of:
 
-- 🏭 **Physical operations** — I've managed quality control on factory floors, coordinated export logistics, and optimized supply chains
-- 🧠 **Machine learning** — I build failure prediction models, RUL estimators, and anomaly detection pipelines
-- 📊 **Business intelligence** — I architect Power BI dashboards that C-suite executives rely on for operational decisions
+- 🏭 **Physical operations** - I've managed quality control on factory floors, coordinated export logistics, and optimized supply chains
+- 🧠 **Machine learning** - I build failure prediction models, RUL estimators, and anomaly detection pipelines
+- 📊 **Business intelligence** - I architect Power BI dashboards that C-suite executives rely on for operational decisions
 
-**Currently targeting:** Oil & Gas Analytics, Aviation BI, and Industrial AI roles in the **UAE and GCC region**.
+**Currently targeting:** Oil & Gas Analytics, Aviation BI, Project Managment, PowerPlant Analytics/Maintenance and Industrial AI roles in the **UAE and GCC region/Singapore/Indonesia/USA/Europe**.
 
 </td>
 <td width="42%" valign="top" align="center">
