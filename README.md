@@ -19,7 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibitesh-kumarjb/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jibiteshkumar@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Ranchi,_India-Open_to_UAE/Singapore/Indonesia/USA-145A32?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/📍_Ranchi,_India-Open_to_UAE/Singapore/Indonesia/EU/USA-145A32?style=for-the-badge)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=jibiteshkumar&color=1B6CA8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/jibiteshkumar)
 
 </div>
